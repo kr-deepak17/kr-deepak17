@@ -3,14 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kr.deepak17) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deepak-kumar-65b090346) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kr10deepak19@gmail.com) 
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23000000.svg?logo=LeetCode&logoColor=yellow)](https://leetcode.com/u/kr_deepak17/)
-
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%232F8D46.svg?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/krdeepak17/)
-
-[![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?logo=codechef&logoColor=white)](https://www.codechef.com/users/kr_deepak17)
-
-[![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?logo=codeforces&logoColor=white)](https://codeforces.com/profile/kr_deepak17)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kr.deepak17) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deepak-kumar-65b090346) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kr10deepak19@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-%23000000.svg?logo=LeetCode&logoColor=yellow)](https://leetcode.com/u/kr_deepak17/) [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%232F8D46.svg?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/krdeepak17/) [![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?logo=codechef&logoColor=white)](https://www.codechef.com/users/kr_deepak17) [![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?logo=codeforces&logoColor=white)](https://codeforces.com/profile/kr_deepak17)
 
 
 
