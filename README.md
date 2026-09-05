@@ -1,7 +1,7 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kr.deepak17) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Deepak-kumar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:KR10DEEPAK19@GMAIL.COM) 
-[![Leetcode](https://leetcode.com/static/images/LeetCode_Sharing.png)](https://leetcode.com/u/kr_deepak17_/)
+
 
 
 # 💻 Tech Stack:
