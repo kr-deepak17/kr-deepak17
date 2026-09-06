@@ -1,21 +1,135 @@
-# 💫 About Me:
-🔭 I’m currently working on AI models and exploring how artificial intelligence can solve real-world problems.<br><br>👯 I’m looking to collaborate on Full Stack Web Development, AI/ML projects, open-source contributions and innovative tech ideas.<br><br>🤝 I’m looking for help with advanced backend development, database design, scalable applications and deploying AI-powered products.<br><br>🌱 I’m currently learning Full Stack Development with React.js, Node.js, Express.js, MongoDB, Git/GitHub, APIs and AI/ML integration.<br><br>💬 Ask me about Full Stack Web Development, JavaScript, React, Node.js, basic AI/ML concepts and building web projects.<br><br>⚡ Fun fact: I’m an aspiring Full Stack Developer who is also working with AI models—I enjoy building intelligent, real-world applications from scratch.
+# 👋 Hi, I'm Deepak Kumar
 
+<h3 align="center">🚀 An Aspiring Full Stack Developer & AI/ML Enthusiast</h3>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kr.deepak17) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deepak-kumar-65b090346) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kr10deepak19@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-%23000000.svg?logo=LeetCode&logoColor=yellow)](https://leetcode.com/u/kr_deepak17/) [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%232F8D46.svg?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/krdeepak17/) [![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?logo=codechef&logoColor=white)](https://www.codechef.com/users/kr_deepak17) [![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?logo=codeforces&logoColor=white)](https://codeforces.com/profile/kr_deepak17)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kr-deepak17&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-
-
-
-# 💻 Tech Stack:
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=kr-deepak17&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=kr-deepak17&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=kr-deepak17&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <a href="mailto:kr10deepak19@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/deepak-kumar-65b090346">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/kr_deepak17/">
+    <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/RESUME-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white" />
+  </a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=kr-deepak17&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+- 🔭 Currently working on **AI models** and exploring how AI can solve real-world problems
+- 🌱 Learning **Full Stack Development** with React.js, Node.js, Express.js & MongoDB
+- 🤖 Exploring **AI/ML integration** with modern web applications
+- 🧠 Practicing **Data Structures & Algorithms** regularly
+- 💻 Interested in **Full Stack Web Development, AI/ML & scalable applications**
+- 🤝 Looking to collaborate on **Full Stack, AI/ML and Open Source projects**
+- 🚀 Interested in building **intelligent, real-world applications from scratch**
+- ⚡ Fun Fact: I enjoy combining **Web Development + AI** to build useful products
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp,c,java,go,python,react,nextjs,nodejs,express,mongodb,mysql,redis,firebase,git,github,docker,kubernetes,aws,postman,figma" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=kr-deepak17&theme=neon&hide_border=false&include_all_commits=true&count_private=true" height="180" />
+  
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=kr-deepak17&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180" />
+</p>
+
+---
+
+## 🔥 Streak + Contributions
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=kr-deepak17&theme=neon&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kr-deepak17&theme=react-dark&hide_border=false" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kr-deepak17&theme=neon&no-frame=false&margin-w=5" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<p align="center">
+
+<a href="https://github.com/kr-deepak17">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kr-deepak17&repo=YOUR_PROJECT_1&theme=neon" />
+</a>
+
+<a href="https://github.com/kr-deepak17">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kr-deepak17&repo=YOUR_PROJECT_2&theme=neon" />
+</a>
+
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kr-deepak17/kr-deepak17/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://instagram.com/kr.deepak17">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/deepak-kumar-65b090346">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/u/kr_deepak17/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+<a href="https://www.geeksforgeeks.org/user/krdeepak17/">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</a>
+
+<a href="https://www.codechef.com/users/kr_deepak17">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+</a>
+
+<a href="https://codeforces.com/profile/kr_deepak17">
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  ⭐️ Thanks for visiting my profile!
+</p>
