@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Deepak Kumar
+<h1 align="center">👋 Hi, I'm Deepak Kumar</h1>
 
 <h3 align="center">🚀 An Aspiring Full Stack Developer & AI/ML Enthusiast</h3>
 
@@ -47,9 +47,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=kr-deepak17&theme=neon&hide_border=false&include_all_commits=true&count_private=true" height="180" />
+  <img 
+    src="https://github-readme-stats.shion.dev/api?username=kr-deepak17&theme=neon&hide_border=false&include_all_commits=true&count_private=true" 
+    height="180"
+  />
 
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=kr-deepak17&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180" />
+  <img 
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=kr-deepak17&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact" 
+    height="180"
+  />
 </p>
 
 ---
@@ -57,9 +63,13 @@
 ## 🔥 Streak + Contributions
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=kr-deepak17&theme=neon&hide_border=false" />
+  <img 
+    src="https://streak-stats.demolab.com/?user=kr-deepak17&theme=neon&hide_border=false" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kr-deepak17&theme=react-dark&hide_border=false" />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=kr-deepak17&theme=react-dark&hide_border=false" 
+  />
 </p>
