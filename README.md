@@ -56,21 +56,19 @@
 <table align="center">
   <tr>
 
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=kr-deepak17&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=false"
-        height="180"
-        alt="Deepak Kumar's GitHub Stats"
-      />
-    </td>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=kr-deepak17&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=false"
+    height="180"
+    alt="Deepak Kumar's GitHub Stats"
+  />
 
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=kr-deepak17&layout=compact&include_all_commits=true&count_private=true&theme=radical&hide_border=false"
-        height="180"
-        alt="Deepak Kumar's Most Used Languages"
-      />
-    </td>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kr-deepak17&layout=compact&include_all_commits=true&count_private=true&theme=radical&hide_border=false"
+    height="180"
+    alt="Deepak Kumar's Most Used Languages"
+  />
+</p>
 
   </tr>
 </table>
